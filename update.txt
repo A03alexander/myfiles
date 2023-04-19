@@ -1,2 +1,2 @@
 
-{ "version":"2", "title":"Update available", "description":"Improvements and bug fixes", "download":"https://t.me/", "force":"true" }
+{ "version":"1", "title":"Update available", "description":"Improvements and bug fixes", "download":"https://t.me/", "force":"true" }
