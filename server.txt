@@ -1,1 +1,1 @@
-{ "version":"1", "title":"Server in Maintenance 🛠️", "description":"Sorry for the inconvenience. We are making improvements and bug fixes. We'll be back in a moment", "force":"true" }
+{ "version":"2", "title":"Server in Maintenance 🛠️", "description":"Sorry for the inconvenience. We are making improvements and bug fixes. We'll be back in a moment", "force":"true" }
