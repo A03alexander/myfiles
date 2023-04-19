@@ -1,1 +1,2 @@
 
+{ "version":"2", "title":"Update available just for you 🛠️", "description":"Improvements and bug fixes", "download":"https://t.me/", "force":"true" }
